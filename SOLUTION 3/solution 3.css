@@ -1,0 +1,21 @@
+body{
+    border: 2px solid black;
+    margin:100px 60px ;
+    width:1100px;
+    padding: 5px;
+    
+}
+        .nature{
+           background-color: cornsilk;
+           width: 1060px;
+           height: 300px;
+           padding: 20px;
+        }
+        img{
+            height:280px;
+            float:right;
+            width:400px;
+        }
+        p{
+            line-height: 23px;
+        }

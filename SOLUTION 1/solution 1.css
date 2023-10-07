@@ -1,0 +1,42 @@
+.Box{
+    border: 2px solid black;
+    height:113px;
+    width: 113px;
+    margin-top:167px;
+    margin-left: 159px;
+   }
+
+   .BoxA, .BoxB, .BoxC, .BoxD, .BoxE{
+    border: 1px solid rgb(193, 168, 28);
+       height: 50px;
+       width: 50px;
+       background-color: #23fdce;
+       display: flex;
+       justify-content: center;
+       position: absolute;
+   }
+
+    .BoxA{
+       left: 200px;
+       top: 200px;
+   } 
+
+    .BoxB{
+       left: 170px;
+       top: 170px;
+       } 
+   
+    .BoxC{
+       left: 230px;
+       top: 170px;
+       } 
+
+    .BoxD{
+       left: 170px;
+       top: 230px;
+      } 
+
+   .BoxE{
+       left: 230px;
+       top: 230px;
+   }
